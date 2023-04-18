@@ -1,0 +1,16 @@
+PODS:
+  - SwiftSplines (1.0.0)
+
+DEPENDENCIES:
+  - SwiftSplines (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftSplines:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftSplines: 9c4a759cd9958ed262d3094201a951b82c38e5b8
+
+PODFILE CHECKSUM: c7d7d76de9d37dd340d285ee8e6311dd0802cc11
+
+COCOAPODS: 1.12.0

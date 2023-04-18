@@ -1,0 +1,7 @@
+platform :ios, '13.0'
+use_frameworks!
+target 'SwiftSplines_Tests' do
+  pod 'SwiftSplines', :path => '../'
+  
+  
+end
